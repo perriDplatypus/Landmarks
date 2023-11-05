@@ -1,10 +1,3 @@
-//
-//  LandmarksApp.swift
-//  Landmarks
-//
-//  Created by Abhay Tyagi on 4/11/2023.
-//
-
 import SwiftUI
 
 @main
